@@ -15,34 +15,26 @@
 - :heart:: :tv:, :man_technologist:, :headphones:, :badminton:.
 - :envelope:: tranhoangthien.it@gmail.com
 
-<a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32px" width="32px" alt="linkedin" title="My LinkedIn profile"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/duckymomo20012">
-    <img src="https://user-images.githubusercontent.com/64480713/181669651-ecc731ff-a047-4ea0-9dab-9a6fd8478a4f.svg" height="32px" width="32px" alt="twitter" title="My Twitter account"/>
-</a>
-&nbsp;
-<a>
-    <img src="https://user-images.githubusercontent.com/64480713/181579009-2851ced3-3ef9-4008-84c7-7f222c37c25b.svg" height="32px" width="32px" alt="telegram" title="My Telegram account"/>
-</a>
-&nbsp;
-<a>
-    <img src="https://user-images.githubusercontent.com/64480713/181579136-7ddffd39-476d-4212-af24-737ae02a7071.svg" height="32px" width="32px" alt="skype" title="My Skype account"/>
-</a>
-&nbsp;
-<a>
-    <img src="https://user-images.githubusercontent.com/64480713/181579318-2ce0865b-990a-43fd-a49a-2fb80df07164.svg" height="32px" width="32px" alt="discord" title="My Dicord account"/>
-</a>
-&nbsp;
-<a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/2048px-Facebook_Messenger_logo_2020.svg.png" height="32px" width="32px" alt="messenger" title="My Messenger account"/>
-</a>
-&nbsp;
-<a>
-    <img src="https://classic.vn/wp-content/uploads/2022/07/zalo-icon.png" height="32px" width="32px" alt="zalo" title="My Zalo account"/>
-</a>
+<br>
+# 🛠 Tech Stack
 
+> skills
+
+- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring)
+
+- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
+
+- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
+
+- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)![Gitee](https://img.shields.io/badge/-Gitee-red?style=flat-circle&logo=Gitee)
+
+- 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![SQL Server](https://img.shields.io/badge/-SQL-red?style=flat-circle&logo=SQLServer)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
+
+- 🌱 learning：[ReactJS](https://img.shields.io/badge/-ReactJS-green?style=flat-circle&logo=reactjs)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
+<br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1200" />
+<br>
+  
 
 
 ## :chart: Github Stats:
