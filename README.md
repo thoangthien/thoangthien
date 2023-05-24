@@ -18,7 +18,7 @@
 <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32px" width="32px" alt="linkedin" title="My LinkedIn profile"/>
 </a>
-<!-- &nbsp;
+&nbsp;
 <a href="https://twitter.com/duckymomo20012">
     <img src="https://user-images.githubusercontent.com/64480713/181669651-ecc731ff-a047-4ea0-9dab-9a6fd8478a4f.svg" height="32px" width="32px" alt="twitter" title="My Twitter account"/>
 </a>
@@ -33,7 +33,7 @@
 &nbsp;
 <a>
     <img src="https://user-images.githubusercontent.com/64480713/181579318-2ce0865b-990a-43fd-a49a-2fb80df07164.svg" height="32px" width="32px" alt="discord" title="My Dicord account"/>
-</a> -->
+</a>
 &nbsp;
 <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/2048px-Facebook_Messenger_logo_2020.svg.png" height="32px" width="32px" alt="messenger" title="My Messenger account"/>
