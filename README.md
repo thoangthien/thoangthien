@@ -33,7 +33,7 @@
 
 - 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![SQL Server](https://img.shields.io/badge/-SQL-red?style=flat-circle&logo=SQLServer)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
 
-- 🌱 learning：![ReactJS](https://img.shields.io/badge/-ReactJS-green?style=flat-circle&logo=reactjs)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
+- 🌱 learning：![ReactJS](https://img.shields.io/badge/-ReactJS-blue?style=flat-circle&logo=reactjs)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
 
 <a href="#" target="_blank">
     <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1200" />
