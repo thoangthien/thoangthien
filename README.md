@@ -44,7 +44,7 @@
   
 
 
-## :chart: Github Stats:
+## :panda_face: Github Stats:
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
