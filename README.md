@@ -16,7 +16,7 @@
 - :envelope:: tranhoangthien.it@gmail.com
 
 
-<br>
+
 ## 🛠 Tech Stack
 
 
@@ -38,7 +38,7 @@
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1200" />
-<br>
+
   
 
 
@@ -54,7 +54,7 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thoangthien&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-</br>
+</>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
