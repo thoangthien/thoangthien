@@ -6,7 +6,7 @@
 
 # Hi, I’m Tran Hoang Thien
 
-## :unicorn: About Me:
+## :panda_face: About Me:
 
 - I'm <b>Back-End Developer</b>, majoring in <b>Information Technology</b>.
 - I am currently learning <b>Java</b> for Back-End Development.
@@ -44,7 +44,7 @@
   
 
 
-## :panda_face: Github Stats:
+## :chart: Github Stats:
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
